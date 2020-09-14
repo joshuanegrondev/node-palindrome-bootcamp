@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: 'Ranchers', cursive;
+}
+h1{
+  color: blue;
+  font-size: 70px;
+}
+
+button{
+  font-size: 45px;
+  font-family: 'Ranchers', cursive;
+}
+
+section{
+  margin-top: 15%;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
